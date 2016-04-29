@@ -3,9 +3,40 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-21T19:29:09-07:00</updated>
+<updated>2016-04-29T11:34:26-07:00</updated>
 <id>http://localhost:3000/</id>
 <title>Elliott Klavitter</title>
+<entry>
+<title>Becoming an active linguist</title>
+<link href="http://localhost:3000/Becoming-an-active-linguist/" rel="alternate" type="text/html" title="Becoming an active linguist" />
+<published>2016-04-29T10:07:00-07:00</published>
+<updated>2016-04-29T10:07:00-07:00</updated>
+<id>http://localhost:3000/Becoming-an-active-linguist</id>
+<content type="html" xml:base="http://localhost:3000/Becoming-an-active-linguist/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+
+&lt;p&gt;Keeping myself active in Github is seemingly one of the most important pieces in my progress to becoming a more than competent web developer. I feel my HTML skills are strong, CSS nearly the same, and Bootstrap essential to having a responsive site. There is no need to be imprudent with the learning, since the level of care and quality will result in comparable success.&lt;/p&gt;
+
+&lt;p&gt;Practicing these skills through my projects is the only way to be fully skilled (i.e. experience!). With the practice, is keeping fresh with it daily. It’s no different than the other languages I’ve learned, and surely my competence will fade without continual use just the same.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-focus-for-this-week&quot;&gt;My focus for this week:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Continue mastery of HTML and CSS&lt;/li&gt;
+  &lt;li&gt;Practice more features of Bootstrap&lt;/li&gt;
+  &lt;li&gt;Familiarize myself with all the uses of Github&lt;/li&gt;
+  &lt;li&gt;Complete Codecademy projects&lt;/li&gt;
+  &lt;li&gt;Personalize my Github profile&lt;/li&gt;
+  &lt;li&gt;Daily Updates&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It doesn’t seem unreasonable for me to do all of these. I need to hold myself accountable.&lt;/p&gt;
+
+</content>
+<category term="Github" />
+<category term="Coding Practice" />
+<category term="Weekly Focus" />
+<summary>Summary:Keeping myself active in Github is seemingly one of the most important pieces in my progress to becoming a more than competent web developer. I feel my HTML skills are strong, CSS nearly the same, and Bootstrap essential to having a responsive site. There is no need to be imprudent with the learning, since the level of care and quality will result in comparable success.</summary>
+</entry>
 <entry>
 <title>hello world</title>
 <link href="http://localhost:3000/hello-world/" rel="alternate" type="text/html" title="hello world" />
@@ -462,9 +493,8 @@ Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste o
 [3]: http://www.markitdown.net/
 [4]: http://daringfireball.net/projects/markdown/basics
 [5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
- --&gt;
+[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg --&gt;
 </content>
-<summary>&amp;lt;!– —title: “Markdown Extra Components”layout: postdate: 2016-02-24 22:48tag:- markdown- components- extrablog: true—</summary>
+<summary></summary>
 </entry>
 </feed>

@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Becoming an active linguist",
+      "tags"     : "Github, Coding Practice, and Weekly Focus",
+      "url"      : "/Becoming-an-active-linguist/",
+      "date"     : "29 Apr 2016"
+    } ,
+  
+    {
       "title"    : "hello world",
       "tags"     : "hello world",
       "url"      : "/hello-world/",
