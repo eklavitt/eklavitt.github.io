@@ -17,7 +17,7 @@ Practicing these skills through my projects is the only way to be fully skilled 
 
 ---
 
-##My focus for this week:
+### My focus for this week:
 
 - Continue mastery of HTML and CSS
 - Practice more features of Bootstrap
