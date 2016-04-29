@@ -15,7 +15,9 @@ Keeping myself active in Github is seemingly one of the most important pieces in
 
 Practicing these skills through my projects is the only way to be fully skilled (i.e. experience!). With the practice, is keeping fresh with it daily. It's no different than the other languages I've learned, and surely my competence will fade without continual use just the same. 
 
-###My focus for this week:
+---
+
+##My focus for this week:
 
 - Continue mastery of HTML and CSS
 - Practice more features of Bootstrap

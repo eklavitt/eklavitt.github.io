@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-29T11:34:26-07:00</updated>
+<updated>2016-04-29T11:38:31-07:00</updated>
 <id>http://localhost:3000/</id>
 <title>Elliott Klavitter</title>
 <entry>
@@ -18,7 +18,9 @@
 
 &lt;p&gt;Practicing these skills through my projects is the only way to be fully skilled (i.e. experience!). With the practice, is keeping fresh with it daily. It’s no different than the other languages I’ve learned, and surely my competence will fade without continual use just the same.&lt;/p&gt;
 
-&lt;h3 id=&quot;my-focus-for-this-week&quot;&gt;My focus for this week:&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;my-focus-for-this-week&quot;&gt;My focus for this week:&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Continue mastery of HTML and CSS&lt;/li&gt;
