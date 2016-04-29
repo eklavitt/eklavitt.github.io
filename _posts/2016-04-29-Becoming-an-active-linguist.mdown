@@ -27,7 +27,7 @@ blog: true
 
 	It doesn't seem unreasonable for me to do all of these. I need to hold myself accountable.
 
-
+---
 
 [1]: http://daringfireball.net/projects/markdown/
 [2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
