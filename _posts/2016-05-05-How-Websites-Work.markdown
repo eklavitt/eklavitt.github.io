@@ -7,7 +7,6 @@ tag:
 - Request-Response Cycle
 - AJAX
 blog: true
-star: true
 ---
 
 ## Summary:
