@@ -11,16 +11,16 @@ blog: true
 
 ## Summary:
 	
-Keeping myself active in Github is seemingly one of the most important pieces in my progress to becoming a more than competent web developer. I feel my HTML skills are strong, CSS nearly the same, and Bootstrap essential to having a responsive site. There is no need to be imprudent with the learning, since the level of care and quality will result in comparable success. 
+Keeping myself active in Github is seemingly one of the most important pieces in becoming a desired web developer. I feel my HTML skills are strong, CSS nearly the same, and Bootstrap essential. I don't have to learn everything at once, since the level of care and quality will result in comparable success. But, I do need consistent activity.
 
-Practicing these skills through my projects is the only way to be fully skilled (i.e. experience!). With the practice, is keeping fresh with it daily. It's no different than the other languages I've learned, and surely my competence will fade without continual use just the same. 
+Practicing through various projects is the only way to be fully skilled (i.e. experience!). With daily practice, I can stay fresh. It's no different than the other languages I've learned, and surely my competence will fade without continual use just the same. 
 
 ---
 
 ### My focus for this week:
 
 - Continue mastery of HTML and CSS
-- Practice more features of Bootstrap
+- Continue learning Bootstrap
 - Familiarize myself with all the uses of Github
 - Complete Codecademy projects
 - Personalize my Github profile
