@@ -14,6 +14,7 @@ permalink: /about/index.html
 	<li>Responsive</li>
 	<li>CSS</li>
 	<li>Css Frameworks (Bootstrap)</li>
+	<li>JavaScript</li>
 	<li>Git</li>
 </ul>
 
