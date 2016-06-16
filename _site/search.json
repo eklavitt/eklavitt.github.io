@@ -1,6 +1,27 @@
 [
   
     {
+      "title"    : "Github Jumpstart",
+      "tags"     : "Github, Coding Practice, Weekly Focus, Codeschool, Sketch, Design, and JQuery",
+      "url"      : "/Github-Jumpstart/",
+      "date"     : "16 Jun 2016"
+    } ,
+  
+    {
+      "title"    : "Little Changes",
+      "tags"     : "Github, Coding Practice, Weekly Focus, and Codeschool",
+      "url"      : "/Little-Changes/",
+      "date"     : "22 May 2016"
+    } ,
+  
+    {
+      "title"    : "How Websites Work",
+      "tags"     : "Client-Server Model, Request-Response Cycle, and AJAX",
+      "url"      : "/How-Websites-Work/",
+      "date"     : "05 May 2016"
+    } ,
+  
+    {
       "title"    : "Becoming an active linguist",
       "tags"     : "Github, Coding Practice, and Weekly Focus",
       "url"      : "/Becoming-an-active-linguist/",

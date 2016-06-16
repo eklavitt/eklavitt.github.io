@@ -3,9 +3,134 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-29T11:44:09-07:00</updated>
+<updated>2016-06-16T15:46:05-07:00</updated>
 <id>http://localhost:3000/</id>
 <title>Elliott Klavitter</title>
+<entry>
+<title>Github Jumpstart</title>
+<link href="http://localhost:3000/Github-Jumpstart/" rel="alternate" type="text/html" title="Github Jumpstart" />
+<published>2016-06-16T14:30:00-07:00</published>
+<updated>2016-06-16T14:30:00-07:00</updated>
+<id>http://localhost:3000/Github-Jumpstart</id>
+<content type="html" xml:base="http://localhost:3000/Github-Jumpstart/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+
+&lt;p&gt;Although my github activity has been less than sparce over the last few weeks, I have been working hard on my web development skills. I didn’t forget about the importance of “Code Every Day,” and have been doing at least every few days. My focuses over the last few weeks:&lt;/p&gt;
+
+&lt;h4 id=&quot;design-fundamentals&quot;&gt;Design Fundamentals:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Simplicity!!!&lt;/li&gt;
+  &lt;li&gt;Color Schemes and their Psychology&lt;/li&gt;
+  &lt;li&gt;Using Images as Layout&lt;/li&gt;
+  &lt;li&gt;Proper use of Multiple Typefaces&lt;/li&gt;
+  &lt;li&gt;Readability with Responsive Design&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I find that design with UX/UI in mind comes fairly natural with my attention to detail, and my passion in Sociology. It’s fascinating how people react to the smallest details, without being aware they’re affected. At the same time, the thoughtfulness that is necessary to have a perfectly affective webpage could very easily become overlooked. Fortunately, I have the patience, and mild OCD, to work in this realm, and am excited to study more.&lt;/p&gt;
+
+&lt;p&gt;In addition to taking codeschool courses, watching videos and reading articles on the design aspect, I purchased Sketch App for my primary tool of web design. After thorough research, it seemed the best choices were this and Photoshop. Difinitively, &lt;a href=&quot;http://www.sketchapp.com/&quot;&gt;Sketch&lt;/a&gt; is the better choice with the intention of web development, and the price was plenty worth it.&lt;/p&gt;
+
+&lt;h4 id=&quot;jquery&quot;&gt;jQuery:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Traversing the DOM&lt;/li&gt;
+  &lt;li&gt;Variables&lt;/li&gt;
+  &lt;li&gt;Functions&lt;/li&gt;
+  &lt;li&gt;Listening and Calling&lt;/li&gt;
+  &lt;li&gt;Animate!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Having learned a bit about Javascript, and how it creates interaction between the user and the site, jQuery wasn’t too difficult to catch on to. It is simply a library of actions I can implement to make my site more interesting, and although it is in the creative/style realm, it defines important functions crucial to UX/UI.&lt;/p&gt;
+
+&lt;h3 id=&quot;conlusion&quot;&gt;Conlusion:&lt;/h3&gt;
+
+&lt;p&gt;I am still an absolute novice in the sport of web development. I have only just begun to create my own first project, less than 3 months from beginning my journey. Excited to be starting from absolute scratch, I am worried I am not quite prepared. Honestly, I know I am not quite prepared, since I have only done assignments by codeschool and codecademy, watched many videos, taken many notes, and tried to retain it all. What I do know is that I’m ready to gain the experience it takes to dive into this new world. My skills and knowledge have improved ten fold. My comfort level with HTML, CSS, jQuery, sublimetext, the terminal, Github is as good as it’s been, but will only improve with use. I know the basics, and it’s time to practice.&lt;/p&gt;
+
+&lt;h3 id=&quot;weekly-goal&quot;&gt;Weekly Goal:&lt;/h3&gt;
+
+&lt;p&gt;I want to finish a mock website this week. I have started a few basic files, and a new Github repo to work within. This is my jumpstart to Github activity, once again. I will write at least one more blog post this week on my trials and tribulations, and send as many commits as possible. It is, once again, about holding myself accountable. As they say…“Code Every Day.”&lt;/p&gt;
+
+</content>
+<category term="Github" />
+<category term="Coding Practice" />
+<category term="Weekly Focus" />
+<category term="Codeschool" />
+<category term="Sketch" />
+<category term="Design" />
+<category term="JQuery" />
+<summary>Summary:</summary>
+</entry>
+<entry>
+<title>Little Changes</title>
+<link href="http://localhost:3000/Little-Changes/" rel="alternate" type="text/html" title="Little Changes" />
+<published>2016-05-22T19:30:00-07:00</published>
+<updated>2016-05-22T19:30:00-07:00</updated>
+<id>http://localhost:3000/Little-Changes</id>
+<content type="html" xml:base="http://localhost:3000/Little-Changes/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+
+&lt;p&gt;I’ve been slacking on updating my github. This doesn’t mean I haven’t been improving my skills though, only irresponsible on making sure the activity is shown.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-have-i-been-doing&quot;&gt;What have I been doing?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quit using Codecademy, and started using CodeSchool.&lt;/li&gt;
+  &lt;li&gt;Began learning JavaScript&lt;/li&gt;
+  &lt;li&gt;Took a step back to review the basics.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I want to start doing projects for others soon. Luckily, I have a few projects in mind, aside from my own, that can start my portfolio. Although I am a person who likes to be thrown to the wolves, this time I want to be a little more prepared. This is a new environment for me, and I would rather not get discouraged from the start.&lt;/p&gt;
+
+&lt;p&gt;The reason I quit Codecademy was due to a bit of dis-interest. After trying CodeSchool, I found it much more engaging. Returning to the basics of html and CSS, it’s teaching me a lot that wasn’t covered before, so I am happy with my decision.&lt;/p&gt;
+
+&lt;p&gt;This week, I want to be really working with JavaScript. I guess that’s my goal, and it is fully attainable.&lt;/p&gt;
+
+</content>
+<category term="Github" />
+<category term="Coding Practice" />
+<category term="Weekly Focus" />
+<category term="Codeschool" />
+<summary>Summary:</summary>
+</entry>
+<entry>
+<title>How Websites Work</title>
+<link href="http://localhost:3000/How-Websites-Work/" rel="alternate" type="text/html" title="How Websites Work" />
+<published>2016-05-05T12:30:00-07:00</published>
+<updated>2016-05-05T12:30:00-07:00</updated>
+<id>http://localhost:3000/How-Websites-Work</id>
+<content type="html" xml:base="http://localhost:3000/How-Websites-Work/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+
+&lt;p&gt;It was suggested that I take a few steps back in my web development path and really familiarize myself with how websites, and computers, work. I too often get ahead myself, assuming I know the basics, when in reality I don’t. The relationship between the front-end and back-end is what makes displaying any web page possible, so why not explore how…&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-the-front-end-what-is-the-back-end&quot;&gt;What is the Front-end? What is the Back-end?&lt;/h2&gt;
+
+&lt;p&gt;When I say “front-end,” I’m really referring to the CLIENT. The client is a program that accesses a service in order to coherently display information to the user. One example is a web browser, which gathers the information to display a web page.&lt;/p&gt;
+
+&lt;p&gt;But, where does the client get this information from? It would be unrealistic to assume that a web browser could store all of the information from every web page you want to view. SO, the browser (Client) has to ask for this information, which is stored on a very powerful specialized computer called a SERVER.&lt;/p&gt;
+
+&lt;p&gt;Servers are the “back-end.” As a basic definition, a server is a program or device that provides functionality for other programs or devices. They provide the resource or service for the client.&lt;/p&gt;
+
+&lt;h2 id=&quot;request-response-cycle&quot;&gt;Request-Response Cycle:&lt;/h2&gt;
+
+&lt;p&gt;Now I ponder, if I have one program with the information, and the other that wants the information, how does the exchange occur? The client simply requests the information, and the server responds with the information. This is known as the “Request-Response Cylce.” This process generally has to be executed a number of times before any message can be properly displayed.&lt;/p&gt;
+
+&lt;p&gt;The last thing to consider in this process is how the client and server find eachother. There are many servers throughout the world, as well as many clients, so they need a platform to find eachother. This is known as a NETWORK. The most familiar network is the internet, using addresses such as World Wide Web (www.—.com), that allow clients find the data to display the web page.&lt;/p&gt;
+
+&lt;p&gt;This process is commonly call the CLIENT-SERVER Model.&lt;/p&gt;
+
+&lt;h2 id=&quot;ajax-asynchronous-javascript-and-xml&quot;&gt;AJAX: Asynchronous JavaScript and XML&lt;/h2&gt;
+
+&lt;p&gt;After understanding the client-server model, I wondered how this process of data exchange happens so smoothly, with such complex web pages. AJAX is the answer. It allows content to change dynamically without needing to reload the entire page (i.e multitasking!). Web pages can then communicate with servers in the background without interfering with the display and behavior of the existing page.&lt;/p&gt;
+
+&lt;p&gt;This idea of “in the background” is the term ASYNCHRONOUS I/O (input and output). It won’t block performance of other programs, rather allows them to process before the transmission is complete.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion:&lt;/h2&gt;
+
+&lt;p&gt;Although it may seem simple, for a web page to display on your computer there needs to be a number of complex data exchanges between the Server containing the information and the Client requesting and receiving it over a network. Without this, we would all still be sending letters, using phone books, reading paperbacks and riding horses to work.&lt;/p&gt;
+
+</content>
+<category term="Client-Server Model" />
+<category term="Request-Response Cycle" />
+<category term="AJAX" />
+<summary>Summary:</summary>
+</entry>
 <entry>
 <title>Becoming an active linguist</title>
 <link href="http://localhost:3000/Becoming-an-active-linguist/" rel="alternate" type="text/html" title="Becoming an active linguist" />
@@ -14,9 +139,9 @@
 <id>http://localhost:3000/Becoming-an-active-linguist</id>
 <content type="html" xml:base="http://localhost:3000/Becoming-an-active-linguist/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
-&lt;p&gt;Keeping myself active in Github is seemingly one of the most important pieces in my progress to becoming a more than competent web developer. I feel my HTML skills are strong, CSS nearly the same, and Bootstrap essential to having a responsive site. There is no need to be imprudent with the learning, since the level of care and quality will result in comparable success.&lt;/p&gt;
+&lt;p&gt;Keeping myself active in Github is seemingly one of the most important pieces in becoming a desired web developer. I feel my HTML skills are strong, CSS nearly the same, and Bootstrap essential. I don’t have to learn everything at once, since the level of care and quality will result in comparable success. But, I do need consistent activity.&lt;/p&gt;
 
-&lt;p&gt;Practicing these skills through my projects is the only way to be fully skilled (i.e. experience!). With the practice, is keeping fresh with it daily. It’s no different than the other languages I’ve learned, and surely my competence will fade without continual use just the same.&lt;/p&gt;
+&lt;p&gt;Practicing through various projects is the only way to be fully skilled (i.e. experience!). With daily practice, I can stay fresh. It’s no different than the other languages I’ve learned, and surely my competence will fade without continual use just the same.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -24,7 +149,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;Continue mastery of HTML and CSS&lt;/li&gt;
-  &lt;li&gt;Practice more features of Bootstrap&lt;/li&gt;
+  &lt;li&gt;Continue learning Bootstrap&lt;/li&gt;
   &lt;li&gt;Familiarize myself with all the uses of Github&lt;/li&gt;
   &lt;li&gt;Complete Codecademy projects&lt;/li&gt;
   &lt;li&gt;Personalize my Github profile&lt;/li&gt;
@@ -37,7 +162,7 @@
 <category term="Github" />
 <category term="Coding Practice" />
 <category term="Weekly Focus" />
-<summary>Summary:Keeping myself active in Github is seemingly one of the most important pieces in my progress to becoming a more than competent web developer. I feel my HTML skills are strong, CSS nearly the same, and Bootstrap essential to having a responsive site. There is no need to be imprudent with the learning, since the level of care and quality will result in comparable success.</summary>
+<summary>Summary:Keeping myself active in Github is seemingly one of the most important pieces in becoming a desired web developer. I feel my HTML skills are strong, CSS nearly the same, and Bootstrap essential. I don’t have to learn everything at once, since the level of care and quality will result in comparable success. But, I do need consistent activity.</summary>
 </entry>
 <entry>
 <title>hello world</title>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:3000/Github-Jumpstart/</loc>
+<lastmod>2016-06-16T14:30:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/Little-Changes/</loc>
+<lastmod>2016-05-22T19:30:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/How-Websites-Work/</loc>
+<lastmod>2016-05-05T12:30:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:3000/Becoming-an-active-linguist/</loc>
 <lastmod>2016-04-29T10:07:00-07:00</lastmod>
 </url>
