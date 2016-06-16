@@ -7,6 +7,8 @@ permalink: /about/index.html
 
 <p>I am Elliott Klavitter. Born in Portland, Oregon, raised in the woods by wolves, vagabond at heart yet homebody by nature; I am not a robot. Solving puzzles is attractive, which draws me to writing code. I read, surf, create with my hands, explore processes of thought, study social dynamics, and thrive on positive connection with everyone around. My middle name is COOPER, and I can FLY.</p>
 
+<p>(Flying Cooper Web Development coming soon!)</p>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -15,6 +17,7 @@ permalink: /about/index.html
 	<li>CSS</li>
 	<li>Css Frameworks (Bootstrap)</li>
 	<li>JavaScript</li>
+	<li>jQuery</li>
 	<li>Git</li>
 </ul>
 
