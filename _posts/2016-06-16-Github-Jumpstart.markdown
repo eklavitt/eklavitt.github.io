@@ -15,7 +15,7 @@ blog: true
 
 ## Summary:
 
-Although my github activity has been less than sparce over the last few weeks, I have been working hard on my web development skills. I didn't forget about the importance of "Code Every Day," and have been doing at least every few days. My focuses over the last few weeks:
+Although my github activity has been less than sparce over the last few weeks, I have been working hard on my web development skills. I didn't forget about the importance of "Code Every Day," and have been at least every few days. My focuses over the last few weeks:
 
 #### Design Fundamentals:
 * Simplicity!!!
